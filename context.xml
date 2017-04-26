@@ -27,8 +27,8 @@
     <!--
     <Manager pathname="" />
     -->
-<Valve className="reyo.redis.session.manager.tomcat8.RedisSessionHandlerValve" />        
-<Manager className="reyo.redis.session.manager.tomcat8.RedisSessionManager"
+<Valve className="com.radiadesign.catalina.session.RedisSessionHandlerValve" />        
+<Manager className="com.radiadesign.catalina.session.RedisSessionManager"
     host="localhost"
     port="6379"
     database="0"
@@ -37,8 +37,8 @@
 
 <!--集群解决方案-->
 
-<Valve className="reyo.redis.session.manager.tomcat8.RedisSessionHandlerValve" />        
-<Manager className="reyo.redis.session.manager.tomcat8.RedisSessionManager"
+<Valve className="com.radiadesign.catalina.session.RedisSessionHandlerValve" />        
+<Manager className="com.radiadesign.catalina.session.RedisSessionManager"
     maxInactiveInterval="60"
     sentinelMaster="redis"
     sentinels="redis-master:6379,redis-slave1:6379,redis-slave1:6379" />
