@@ -1,5 +1,6 @@
-/root/git/tomcat-redis-session-manager/src/main/java/com/radiadesign/catalina/session/JavaSerializer.java
-/root/git/tomcat-redis-session-manager/src/main/java/com/radiadesign/catalina/session/RedisSession.java
-/root/git/tomcat-redis-session-manager/src/main/java/com/radiadesign/catalina/session/RedisSessionHandlerValve.java
-/root/git/tomcat-redis-session-manager/src/main/java/com/radiadesign/catalina/session/Serializer.java
-/root/git/tomcat-redis-session-manager/src/main/java/com/radiadesign/catalina/session/RedisSessionManager.java
+/root/git/tomcat-redis-session-manager/src/main/java/com/orangefunction/tomcat/redissessions/Serializer.java
+/root/git/tomcat-redis-session-manager/src/main/java/com/orangefunction/tomcat/redissessions/RedisSession.java
+/root/git/tomcat-redis-session-manager/src/main/java/com/orangefunction/tomcat/redissessions/RedisSessionManager.java
+/root/git/tomcat-redis-session-manager/src/main/java/com/orangefunction/tomcat/redissessions/RedisSessionHandlerValve.java
+/root/git/tomcat-redis-session-manager/src/main/java/com/orangefunction/tomcat/redissessions/JavaSerializer.java
+/root/git/tomcat-redis-session-manager/src/main/java/com/orangefunction/tomcat/redissessions/SessionSerializationMetadata.java
