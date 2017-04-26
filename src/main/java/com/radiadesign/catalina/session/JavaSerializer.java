@@ -1,4 +1,4 @@
-package com.orangefunction.tomcat.redissessions;
+package com.radiadesign.catalina.session;
 
 import org.apache.catalina.util.CustomObjectInputStream;
 

@@ -1,4 +1,4 @@
-package com.orangefunction.tomcat.redissessions;
+package com.radiadesign.catalina.session;
 
 import java.security.Principal;
 import org.apache.catalina.Manager;
